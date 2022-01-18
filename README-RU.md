@@ -1,11 +1,6 @@
 # Fancy Calculator
 
-Задача начального уровня для практики навыка управления задачами в AutoCode. Переводы: [Английский](README.md).
-
-
-## Заберите проект
-
-* [Откройте проект в Visual Studio из внешнего Git-репозитория](https://docs.microsoft.com/ru-ru/visualstudio/get-started/tutorial-open-project-from-repo) или [склонируйте внешний Git-репозиторий на Ваш локальный диск](https://docs.microsoft.com/ru-ru/azure/devops/repos/git/clone#clone-from-another-git-provider) при помощи Visual Studio.
+Задача начального уровня для практики навыка отладки юнит тестов в Visual Studio. Переводы: [Английский](README.md).
 
 
 ## SonarLint
