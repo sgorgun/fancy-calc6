@@ -1,6 +1,12 @@
 # Fancy Calculator
 
-Beginner level task to practice debugging unit tests in Visual Studio. Translations: [Russian](README-RU.md).
+Beginner level task to practice debugging unit tests in Visual Studio.
+
+Translations: [Russian](README-RU.md).
+
+Estimated time to complete the task - 0.5h.
+
+The task requires .NET 6 SDK installed.
 
 
 ## SonarLint
